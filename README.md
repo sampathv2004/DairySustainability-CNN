@@ -30,4 +30,4 @@ Run `!streamlit run chatbot.py` for interactive queries (upload image, ask "Pred
 
 ## Next Steps
 Deploy on edge devices for real-time farm monitoring. Future: LSTM for video sequences.
-Contact: meghanagaddam041204@gmail.com
+Contact: sampath20202004@gmail.com
